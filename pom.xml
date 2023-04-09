@@ -21,7 +21,7 @@
     <distributionManagement>
         <repository>
             <id>packagecloud.Release</id>
-            <url>packageCloud+https://packagecloud.io/kpnishanth/FinalMavenRelease</url>
+            <url>packagecloud+https://packagecloud.io/kpnishanth/FinalMavenRelease</url>
         </repository>
     </distributionManagement>
 
